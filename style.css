@@ -24,4 +24,6 @@ nav a{
  display: inline;
  float: left;
  padding: 100px;
+ background: red;
+ opacity: 25%;
 }

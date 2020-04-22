@@ -23,6 +23,5 @@ nav a{
 #details > div{
  display: inline;
  float: left;
- padding: 100px;
  background-color: rgb(255,0,0,0.25);
 }

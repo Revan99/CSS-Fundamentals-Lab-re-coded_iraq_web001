@@ -21,7 +21,6 @@ nav a{
   text-align: center;
 }
 #details > div{
- display: inline;
  float: left;
  background-color: rgb(255,0,0,0.25);
 }

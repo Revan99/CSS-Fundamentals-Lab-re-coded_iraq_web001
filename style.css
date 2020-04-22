@@ -22,5 +22,6 @@ nav a{
 }
 #details > div{
  display: inline;
- padding: 50px;
+ float: left;
+ padding: 100px;
 }
